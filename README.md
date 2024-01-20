@@ -1,5 +1,5 @@
 Pedro Barbeitos 
 ========================================================================================================================================
 
-Architect and Web Developer creating physical and digital spaces.
+Web Developer and Architect creating physical and digital spaces.
 <br/>
